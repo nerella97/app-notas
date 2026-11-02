@@ -14,7 +14,10 @@ Aplicacion web sencilla para guardar notas desde el navegador. Pensada para estu
 -	[Estado de las funciones](#estado-de-las-funciones)
 -	[Arquitectura](#arquitectura)
 -	[Contribucion](#contribucion)
--	[Licencia](#licencia) ## Instalacion
+-	[Licencia](#licencia) 
+
+## Instalacion
+
 ```bash
 git clone https://github.com/TU-USUARIO/app-notas.git cd app-notas
 ```
